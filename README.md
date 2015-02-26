@@ -11,4 +11,5 @@ Cool webdevelopment links
 <h1>CSS</h1>
 <ul>
   <li><a href="http://tympanus.net/Development/HoverEffectIdeas/">Hover Effect ideas</a></li>
+  <li><a href="http://tympanus.net/codrops/css_reference/">CSS Reference</a></li>
 </ul>
