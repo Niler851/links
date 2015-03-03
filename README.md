@@ -13,3 +13,5 @@ Cool webdevelopment links
   <li><a href="http://tympanus.net/Development/HoverEffectIdeas/">Hover Effect ideas</a></li>
   <li><a href="http://tympanus.net/codrops/css_reference/">CSS Reference</a></li>
 </ul>
+
+https://docs.google.com/file/d/0B82343FTJphIbElHUGVac1hBZnc/edit
